@@ -104,7 +104,6 @@ feed_show_tags: true
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-# dl: these colors appear fucked.
 
 navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
