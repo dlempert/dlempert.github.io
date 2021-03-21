@@ -17,7 +17,7 @@ The Prevalence of Articles on U.S. Judicial Behavior in Five Law & Courts Journa
 
 A content analysis of the 2019 issues of five law and courts journals: Journal of Empirical Legal Studies, Journal of Law, Economics, and Organization, Justice System Journal, Law & Social Inquiry, and Law & Society Review.
 
-2020. Law & Courts Newsletter 30(2): 10-13. Available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cts_journals_ol.pdf) (pdf); full newsletter is [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/lcn_fa2020.pdf) (pdf).
+2020\. Law & Courts Newsletter 30(2): 10-13. Available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cts_journals_ol.pdf) (pdf); full newsletter is [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/lcn_fa2020.pdf) (pdf).
 Data is available here (dta) and Stata .do file is here.
 <br/><br/>
 
