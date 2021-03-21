@@ -26,7 +26,7 @@ Data is available [here](https://drive.google.com/file/d/1D7gGknOUdAiatTGcAuwwYb
 
 The first, hidden, stage of the Supreme Court's agenda-setting process is the formation of the “discuss list,” the small set of cases actually considered in Conference. Yet, few have systematically considered the operation of and the influences on this critical, initial phase of decision-making. No systematic, empirical work makes comparisons over time of how features of cases shape the makeup of the Chief Justices discuss list. Here, we examine the composition of the discuss list through a multivariate analysis of all paid petitions for certiorari filed in October Term 1939, 1968, and 1982. We are thereby able to compare the tendencies and efficacy of three long-serving Chief Justices—Hughes, Warren, and Burger—in making up the discuss list. And, methodologically, we propose a novel alternative to the “observed values” and the “representative case” methods of calculating effect sizes for second differences, and present software to implement our proposal.
 
-2020\. *Journal of Law and Courts* 8(2): 381-395.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/discuss_list_ol.pdf) (pdf).  Published version [here](https://www.journals.uchicago.edu/doi/10.1086/709915) (external link).
+2020\. *Journal of Law and Courts* 8(2): 381-395.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/discuss_list_ol.pdf) (pdf);  published version [here](https://www.journals.uchicago.edu/doi/10.1086/709915) (external link).
 A preliminary version (v. 0.6) of the associated Stata program sdcasepick is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.ado) (ado).  Help file [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.sthlp) (sthlp).  Feedback welcome; please check back for updates.
 <br/><br/>
 
@@ -50,7 +50,7 @@ Evolutionary game theory has a lengthy history of modeling human interactions, a
 
 Political scientists relying on observational data face substantial challenges in drawing causal inferences.  A particularly problematic threat to inference is the unobserved confounder. As a means to assess this threat, we introduce simultaneous sensitivity analysis to the political science literature. As an application, we consider the potentially confounded relationship between Supreme Court justice voting and oral argument quality. We demonstrate that this relationship is sensitive to the presence of a confounder, to a degree that threatens inference, and explore the confounder both theoretically and empirically. More generally, we show how sensitivity analysis can guide inquiry related to a covariate that cannot be directly measured.
 
-2018\. *Political Science Research & Methods* 6(1): 33-56. Draft available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/oa_all_ol.pdf) (pdf) published version available [here](http://dx.doi.org/10.1017/psrm.2015.74) (external site).
+2018\. *Political Science Research & Methods* 6(1): 33-56. Draft available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/oa_all_ol.pdf) (pdf); published version available [here](http://dx.doi.org/10.1017/psrm.2015.74) (external site).
 <br/><br/>
 
 **Simultaneous Sensitivity Analysis in Stata: pairsimsens and arsimsens**
