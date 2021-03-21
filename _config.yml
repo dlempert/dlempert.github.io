@@ -11,6 +11,9 @@ title: daniel lempert
 # Your name to show in the footer
 author: Daniel Lempert
 
+#dl: allow full width
+full-width: true
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
