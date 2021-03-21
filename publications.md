@@ -35,7 +35,7 @@ A preliminary version (v. 0.6) of the associated Stata program sdcasepick is ava
 
 A rapidly burgeoning literature in judicial politics concerns the variation in elements of writing style such as reading difficulty, cognitive complexity, affective language, and informality in judicial opinions. Some of these studies argue that judges strategically alter their writing style in anticipation of reactions from other actors. Others indicate that writing style is a function of judge characteristics as well as case-related factors. We investigate the correlates of writing style in United States Circuit Courts of Appeals by analyzing a stratified random sample consisting of 11,171 opinions. Construing style broadly to encompass several dimensions suggested by prior work, we find that case and judge characteristics explain substantially more variance in writing style than do strategic considerations.
 
-2019\. *Journal of Law and Courts* 7(1):1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site).
+2019\. *Journal of Law and Courts* 7(1): 1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site).
 <br/><br/>
 
 **On Evolutionary Game Theory and Team Reasoning**
