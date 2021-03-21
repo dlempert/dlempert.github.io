@@ -15,7 +15,8 @@ author: Daniel Lempert
 
 navbar-links:
   CV: "cv"
-  Research: "research"
+  Publications: "publications"
+  Working Papers: "working"
   Teaching: "teaching"
   Resources: "resources"
 #  About Me: "aboutme"
