@@ -5,7 +5,7 @@ title: research
 
 ---
 
-## unpublished
+<ins>unpublished</ins>
 
 **Justice-Level Heterogeneity in Certiorari Voting: The U.S. Supreme Court, October Terms 1939, 1968, 1982 (with Gregory Caldeira)**
 
