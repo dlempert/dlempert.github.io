@@ -9,8 +9,7 @@ title: resources
 
 [Law School Employment Statistics](http://abarequireddisclosures.org/MainHome.aspx)
 
-[LSAC Guide to Law Schools (including chances of admission by GPA and LSAT score)](https://officialguide.lsac.org/Release/OfficialGuide_Default.aspx)
-
+[LSAC Guide to Law Schools](https://officialguide.lsac.org/Release/OfficialGuide_Default.aspx) (including chances of admission by GPA and LSAT score)
 [LSAT Dates and Deadlines](https://www.lsac.org/lsat/lsat-dates-deadlines-score-release-dates)
 
 LSAT Locations 
