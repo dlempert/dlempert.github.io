@@ -7,7 +7,7 @@ title: teaching
 
 I have taught the following courses at SUNY Potsdam:
 
-POLS 110: Intro to U.S. Politics [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s110.pdf)
+POLS 110: Intro to U.S. Politics ([syllabus])(https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s110.pdf)
 
 POLS 312: Crime and Justice
 
