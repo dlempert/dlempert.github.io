@@ -22,9 +22,9 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
- Research: "research"
- Teaching: "teaching"
- Resources: "resources"
+# Research: "research"
+# Teaching: "teaching"
+# Resources: "resources"
 
 
 # --- Logo --- #
