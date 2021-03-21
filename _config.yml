@@ -19,9 +19,9 @@ author: Daniel Lempert
 navbar-links:
   CV: "cv"
   Publications: "publications"
+  Resources: "resources"
   Working Papers: "working"
   Teaching: "teaching"
-  Resources: "resources"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
