@@ -1,6 +1,6 @@
 ---
 
-layout: site
+layout: page
 title: cv
 
 ---
