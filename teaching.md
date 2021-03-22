@@ -19,12 +19,12 @@ POLS 327: Law and Society [syllabus](https://raw.githubusercontent.com/dlempert/
 
 POLS 329: Gender and the Law [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s329.pdf)
 
-POLS 361: Bioethics--Classic Legal Cases [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s361.pdf)
+POLS 361: Bioethics: Classic Legal Cases [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s361.pdf)
 
 POLS 400: Senior Seminar (Supervision of Student Research Projects)
 
 POLS 412: Constitutional Law: Governmental Powers [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/412.pdf)
 
-POLS 413: Civil Liberties 1: Speech and Religion
+POLS 413: Civil Liberties I: Speech and Religion
 
 WAYS 101: Free Speech on Campus (First-Year Seminar)
