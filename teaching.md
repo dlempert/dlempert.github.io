@@ -23,7 +23,7 @@ POLS 361: Bioethics: Classic Legal Cases [syllabus](https://raw.githubuserconten
 
 POLS 400: Senior Seminar (Supervision of Student Research Projects)
 
-POLS 412: Constitutional Law: Governmental Powers [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/412.pdf)
+POLS 412: Constitutional Law: Governmental Powers [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s412.pdf)
 
 POLS 413: Civil Liberties I: Speech and Religion
 
