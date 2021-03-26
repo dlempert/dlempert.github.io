@@ -24,7 +24,7 @@ Update of version presented at the 2019 SPSA Conference is available [here](http
 
 Social scientists are often interested in how the effect of some covariate on an outcome varies across groups. A common approach is to calculate a second difference, the difference between two group-specific effect sizes. I propose four alternative quantities of interest for calculating second differences after estimation of logistic or probit regression. While the conventional approach is based on setting covariate values that are constant across groups, the alternatives seek to compare effects that are more directly comparable across groups, in two specific senses. The approaches allow different substantive questions to be addressed and reduce dependence on the nonlinear functional form of logit and probit. I compare the proposed alternatives with the conventional approach in an application testing whether effects of election day registration on turnout are conditional on education, showing that the method chosen to calculate second differences can substantially affect the inferences drawn.
 
-Draft available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sd_calc_ol.pdf) (pdf). Appendix, software to be added.
+Draft being updated. 
 <br/><br/>
 
 **Agenda Control in the Hughes Court, October Term 1939 (with Gregory Caldeira)**
