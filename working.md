@@ -13,12 +13,6 @@ Though the literature on agenda-setting at the U.S. Supreme Court is sizable, ju
 Update of version presented at the 2020 WPSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/jlev_cert_ol.pdf) (pdf).
 <br/><br/>
 
-**Aesthetic Preferences and Policy Preferences as Determinants of U.S. Supreme Court Writing Style (with Jeff Budziak)**
-
-Recent literature on writing style in U.S. Supreme Court opinions has focused on style as a means of furthering justices’ policy goals. In particular, an opinion’s clarity is proposed to make the implementation of the announced policy more likely. We give a formal argument that the observed distribution of opinion clarity is not easily reconcilable with justices who are striving to write clearly in service of policy implementation related goals; this is true even if there are case-level costs that sometimes make writing clearly more difficult. We propose that justices having aesthetic preferences (essentially, stylistic preferences over opinion language that are unrelated to policy implementation) that they weight heavily could explain the observed distribution of opinion clarity. Our analysis of some 4500 majority opinions 1955–2008 is largely consistent with our theoretical argument.
-
-Update of version presented at the 2019 SPSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf).
-<br/><br/>
 
 **Effect Sizes for Calculation of Second Differences After Logistic and Probit Regression: Alternative Quantities of Interest**
 
