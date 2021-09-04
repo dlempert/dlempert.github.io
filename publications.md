@@ -6,6 +6,16 @@ full-width: true
 
 ---
 
+**Aesthetic Preferences and Policy Preferences as Determinants of U.S. Supreme Court Writing Style (with Jeff Budziak)**
+
+Recent literature on writing style in U.S. Supreme Court opinions has focused on style as a means of furthering justices’ policy goals. In particular, an opinion’s clarity is
+proposed to make the implementation of the announced policy more likely. We give a formal argument that the observed distribution of opinion clarity is not easily reconcilable with justices who are striving to write clearly in service of policy implementation related goals; this is true even if there are case-level costs that sometimes make writing clearly
+more difficult. We propose that justices having aesthetic preferences--essentially, stylistic preferences over opinion language that are unrelated to policy implementation--that
+they weight heavily could explain the observed distribution of opinion clarity. Our analysis of some 4500 majority opinions 1955–2008 is largely consistent with our theoretical argument.
+
+Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf).
+<br/><br/>
+
 **Mechanisms Underlying Familial Influence on Elite Political Behavior: Evidence from the U.S. Circuit Courts of Appeals (with Alyse Camacho)**
 
 This article contributes to the literature addressing family influences on elite political behavior. By empirically assessing the influence of sibling gender on judicial decision-making, we are able to present evidence on the mechanism by which child, sibling and other relatives’ gender may influence elite political behavior. We build on a dataset in Glynn and Sen (2015, AJPS) by mining various archival sources to compile data on the gender of circuit judges’ siblings. We find no evidence that male judges’ votes on so-called “women’s issues” (employment discrimination based on gender or pregnancy, reproductive rights/abortion, and Title IX) are affected by whether they have a sister, and we are able to rule out large effects of a sibling’s gender on male and female judges’ votes. Our results imply that the relationship between family member gender and elite political behavior is driven by the desire to avoid costs of discrimination, rather than learning from family members.
