@@ -10,7 +10,7 @@ full-width: true
 
 Recent literature on writing style in U.S. Supreme Court opinions has focused on style as a means of furthering justices’ policy goals. In particular, an opinion’s clarity is
 proposed to make the implementation of the announced policy more likely. We give a formal argument that the observed distribution of opinion clarity is not easily reconcilable with justices who are striving to write clearly in service of policy implementation related goals; this is true even if there are case-level costs that sometimes make writing clearly
-more difficult. We propose that justices having aesthetic preferences--essentially, stylistic preferences over opinion language that are unrelated to policy implementation--that
+more difficult. We propose that justices having aesthetic preferences---essentially, stylistic preferences over opinion language that are unrelated to policy implementation---that
 they weight heavily could explain the observed distribution of opinion clarity. Our analysis of some 4500 majority opinions 1955–2008 is largely consistent with our theoretical argument.
 
 Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf).
