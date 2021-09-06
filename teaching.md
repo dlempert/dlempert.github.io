@@ -25,6 +25,6 @@ POLS 400: Senior Seminar (Supervision of Student Research Projects)
 
 POLS 412: Constitutional Law: Governmental Powers [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s412.pdf)
 
-POLS 413: Civil Liberties I: Speech and Religion
+POLS 413: Civil Liberties I: Speech and Religion [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s413.pdf)
 
-WAYS 101: Free Speech on Campus (First-Year Seminar)
+WAYS 101: Free Speech on Campus (First-Year Seminar) [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sw101.pdf)
