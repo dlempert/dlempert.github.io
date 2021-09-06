@@ -21,7 +21,7 @@ POLS 329: Gender and the Law [syllabus](https://raw.githubusercontent.com/dlempe
 
 POLS 361: Bioethics: Classic Legal Cases [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s361.pdf)
 
-POLS 400: Senior Seminar (Supervision of Student Research Projects)
+POLS 400: Senior Seminar (Supervision of Student Research Projects) [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s400.pdf)
 
 POLS 412: Constitutional Law: Governmental Powers [syllabus](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/s412.pdf)
 
