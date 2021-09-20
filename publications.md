@@ -6,6 +6,15 @@ full-width: true
 
 ---
 
+**On Separation of Powers and Obfuscation in U.S. Supreme Court Opinions**
+
+A longstanding debate in American judicial politics concerns whether the U.S. Supreme Court anticipates or responds to the possibility that Congress will override its decisions.  A recent theory proposes that opinions that are relatively hard to read are more costly for Congress to review---and that as a result, the Court can decrease the likelihood of override from a hostile Congress by _obfuscating_ its opinions: writing opinions that are less readable when congressional review is a threat.  I derive a straightforward but novel empirical implication of this theory; I then show that the implication does not in fact hold. This casts serious doubt on the claim that justices strategically obfuscate opinion language to avoid congressional override.  I also discuss sentence segmentation as a source of measurement error in readability statistics for judicial opinions.
+
+Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sop_diss_ol.pdf) (pdf).
+<br/><br/>
+
+
+
 **Justice-Level Heterogeneity in Certiorari Voting: The U.S. Supreme Court, October Terms 1939, 1968, 1982 (with Gregory Caldeira)**
 
 Though the literature on agenda-setting at the U.S. Supreme Court is sizable, justice-vote-level multivariate analyses of certiorari are almost exclusively limited to samples of discussed cases from 1986-1993.  Moreover, these studies have done very little to explore justice-level heterogeneity on certiorari.  Here, we present an initial effort to address these lacunae by analyzing the predictors of individual justices' cert votes on all paid dockets from the 1939, 1968, and 1982 terms. We find substantial justice-level heterogeneity in the weight that justices place on the standard factors shaping the cert vote.  We also show that some of this heterogeneity is associated with justice experience and ideological extremism, largely in theoretically predicted ways.  In closing, we sound a note of caution on drawing conclusions about effects of justice attributes, when the number of justices is relatively small.
