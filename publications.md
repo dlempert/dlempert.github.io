@@ -54,7 +54,7 @@ Data is available [here](https://drive.google.com/file/d/1D7gGknOUdAiatTGcAuwwYb
 
 The first, hidden, stage of the Supreme Court's agenda-setting process is the formation of the “discuss list,” the small set of cases actually considered in Conference. Yet, few have systematically considered the operation of and the influences on this critical, initial phase of decision-making. No systematic, empirical work makes comparisons over time of how features of cases shape the makeup of the Chief Justices discuss list. Here, we examine the composition of the discuss list through a multivariate analysis of all paid petitions for certiorari filed in October Term 1939, 1968, and 1982. We are thereby able to compare the tendencies and efficacy of three long-serving Chief Justices—Hughes, Warren, and Burger—in making up the discuss list. And, methodologically, we propose a novel alternative to the “observed values” and the “representative case” methods of calculating effect sizes for second differences, and present software to implement our proposal.
 
-2020\. *Journal of Law and Courts* 8(2): 381-395.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/discuss_list_ol.pdf) (pdf);  published version [here](https://www.journals.uchicago.edu/doi/10.1086/709915) (external link).
+2020\. *Journal of Law & Courts* 8(2): 381-395.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/discuss_list_ol.pdf) (pdf);  published version [here](https://www.journals.uchicago.edu/doi/10.1086/709915) (external link).
 A preliminary version (v. 0.6) of the associated Stata program sdcasepick is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.ado) (ado).  Help file [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.sthlp) (sthlp).  Feedback welcome; please check back for updates.
 <br/><br/>
 
@@ -63,7 +63,7 @@ A preliminary version (v. 0.6) of the associated Stata program sdcasepick is ava
 
 A rapidly burgeoning literature in judicial politics concerns the variation in elements of writing style such as reading difficulty, cognitive complexity, affective language, and informality in judicial opinions. Some of these studies argue that judges strategically alter their writing style in anticipation of reactions from other actors. Others indicate that writing style is a function of judge characteristics as well as case-related factors. We investigate the correlates of writing style in United States Circuit Courts of Appeals by analyzing a stratified random sample consisting of 11,171 opinions. Construing style broadly to encompass several dimensions suggested by prior work, we find that case and judge characteristics explain substantially more variance in writing style than do strategic considerations.
 
-2019\. *Journal of Law and Courts* 7(1): 1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site).
+2019\. *Journal of Law & Courts* 7(1): 1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site).
 <br/><br/>
 
 **On Evolutionary Game Theory and Team Reasoning**
