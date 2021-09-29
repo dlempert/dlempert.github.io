@@ -85,7 +85,7 @@ Political scientists relying on observational data face substantial challenges i
 
 A simultaneous sensitivity analysis assesses how sensitive an inference of a non-zero treatment effect is to an unobserved confounder with a specified relationship to the treatment and response. Gastwirth et al. (1998) develops a method of simultaneous sensitivity analysis that can be used after 1:1 matching; Small et al. (2009) modifies the method so that it can be applied after 1:k and full matching. This paper describes the commands pairsimsens and arsimsens, which implement, respectively, the analyses of Gastwirth et al. (1998) and Small et al. (2009) in Stata. The .ado and .hlp files for the software presented in the paper are provided in a .zip file in the supplementary materials.
 
-2015\. *Observational Studies* 1: 74-90. Available [here](https://obsstudies.org/simultaneous-sensitivity-analysis-in-stata-arsimsens-and-pairsimsens/) (external site).
+2015\. *Observational Studies* 1: 74-90. Available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ssa_ol.pdf) (pdf).  Software and replication materials [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ssa_rep.zip) (zip).
 <br/><br/>
 
 **The Long-term Viability of Team Reasoning (with S.M. Amadae)**
