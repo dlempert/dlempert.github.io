@@ -5,13 +5,12 @@ title: publications
 full-width: true
 
 ---
-Note: Replication materials, if not posted below, are at the journal's replication archive.
 
 **On Separation of Powers and Obfuscation in U.S. Supreme Court Opinions**
 
 A longstanding debate in American judicial politics concerns whether the U.S. Supreme Court anticipates or responds to the possibility that Congress will override its decisions.  A recent theory proposes that opinions that are relatively hard to read are more costly for Congress to review---and that as a result, the Court can decrease the likelihood of override from a hostile Congress by _obfuscating_ its opinions: writing opinions that are less readable when congressional review is a threat.  I derive a straightforward but novel empirical implication of this theory; I then show that the implication does not in fact hold. This casts serious doubt on the claim that justices strategically obfuscate opinion language to avoid congressional override.  I also discuss sentence tokenization as a source of measurement error in readability statistics for judicial opinions.
 
-Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sop_diss_ol.pdf) (pdf).
+Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sop_diss_ol.pdf) (pdf).  Replication materials at journal's Dataverse.
 <br/><br/>
 
 
@@ -20,7 +19,7 @@ Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.git
 
 Though the literature on agenda-setting at the U.S. Supreme Court is sizable, justice-vote-level multivariate analyses of certiorari are almost exclusively limited to samples of discussed cases from 1986-1993.  Moreover, these studies have done very little to explore justice-level heterogeneity on certiorari.  Here, we present an initial effort to address these lacunae by analyzing the predictors of individual justices' cert votes on all paid dockets from the 1939, 1968, and 1982 terms. We find substantial justice-level heterogeneity in the weight that justices place on the standard factors shaping the cert vote.  We also show that some of this heterogeneity is associated with justice experience and ideological extremism, largely in theoretically predicted ways.  In closing, we sound a note of caution on drawing conclusions about effects of justice attributes, when the number of justices is relatively small.
 
-Accepted, *Political Science Research & Methods*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/jlev_cert_ol.pdf) (pdf).
+Accepted, *Political Science Research & Methods*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/jlev_cert_ol.pdf) (pdf). Replication materials at journal's Dataverse.
 <br/><br/>
 
 
@@ -32,7 +31,7 @@ proposed to make the implementation of the announced policy more likely. We give
 more difficult. We propose that justices having aesthetic preferences---essentially, stylistic preferences over opinion language that are unrelated to policy implementation---that
 they weight heavily could explain the observed distribution of opinion clarity. Our analysis of some 4500 majority opinions 1955–2008 is largely consistent with our theoretical argument.
 
-Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf).
+Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf). Replication materials at journal's Dataverse.
 <br/><br/>
 
 **Mechanisms Underlying Familial Influence on Elite Political Behavior: Evidence from the U.S. Circuit Courts of Appeals (with Alyse Camacho)**
@@ -56,7 +55,7 @@ Data is available [here](https://drive.google.com/file/d/1D7gGknOUdAiatTGcAuwwYb
 The first, hidden, stage of the Supreme Court's agenda-setting process is the formation of the “discuss list,” the small set of cases actually considered in Conference. Yet, few have systematically considered the operation of and the influences on this critical, initial phase of decision-making. No systematic, empirical work makes comparisons over time of how features of cases shape the makeup of the Chief Justices discuss list. Here, we examine the composition of the discuss list through a multivariate analysis of all paid petitions for certiorari filed in October Term 1939, 1968, and 1982. We are thereby able to compare the tendencies and efficacy of three long-serving Chief Justices—Hughes, Warren, and Burger—in making up the discuss list. And, methodologically, we propose a novel alternative to the “observed values” and the “representative case” methods of calculating effect sizes for second differences, and present software to implement our proposal.
 
 2020\. *Journal of Law & Courts* 8(2): 381-395.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/discuss_list_ol.pdf) (pdf);  published version [here](https://www.journals.uchicago.edu/doi/10.1086/709915) (external link).
-A preliminary version (v. 0.6) of the associated Stata program sdcasepick is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.ado) (ado).  Help file [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.sthlp) (sthlp).  Feedback welcome; please check back for updates.
+A preliminary version (v. 0.6) of the associated Stata program sdcasepick is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.ado) (ado).  Help file [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/sdcasepick.sthlp) (sthlp).  Feedback welcome; please check back for updates. Replication materials at journal's Dataverse.
 <br/><br/>
 
 
@@ -64,7 +63,7 @@ A preliminary version (v. 0.6) of the associated Stata program sdcasepick is ava
 
 A rapidly burgeoning literature in judicial politics concerns the variation in elements of writing style such as reading difficulty, cognitive complexity, affective language, and informality in judicial opinions. Some of these studies argue that judges strategically alter their writing style in anticipation of reactions from other actors. Others indicate that writing style is a function of judge characteristics as well as case-related factors. We investigate the correlates of writing style in United States Circuit Courts of Appeals by analyzing a stratified random sample consisting of 11,171 opinions. Construing style broadly to encompass several dimensions suggested by prior work, we find that case and judge characteristics explain substantially more variance in writing style than do strategic considerations.
 
-2019\. *Journal of Law & Courts* 7(1): 1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site).
+2019\. *Journal of Law & Courts* 7(1): 1-28.  Pre-print available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/determinants_ol.pdf) (pdf); published version available [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701128) (external site). Replication materials at journal's Dataverse.
 <br/><br/>
 
 **On Evolutionary Game Theory and Team Reasoning**
@@ -79,7 +78,7 @@ Evolutionary game theory has a lengthy history of modeling human interactions, a
 
 Political scientists relying on observational data face substantial challenges in drawing causal inferences.  A particularly problematic threat to inference is the unobserved confounder. As a means to assess this threat, we introduce simultaneous sensitivity analysis to the political science literature. As an application, we consider the potentially confounded relationship between Supreme Court justice voting and oral argument quality. We demonstrate that this relationship is sensitive to the presence of a confounder, to a degree that threatens inference, and explore the confounder both theoretically and empirically. More generally, we show how sensitivity analysis can guide inquiry related to a covariate that cannot be directly measured.
 
-2018\. *Political Science Research & Methods* 6(1): 33-56. Draft available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/oa_all_ol.pdf) (pdf); published version available [here](http://dx.doi.org/10.1017/psrm.2015.74) (external site).
+2018\. *Political Science Research & Methods* 6(1): 33-56. Draft available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/oa_all_ol.pdf) (pdf); published version available [here](http://dx.doi.org/10.1017/psrm.2015.74) (external site). Replication materials at journal's Dataverse.
 <br/><br/>
 
 **Simultaneous Sensitivity Analysis in Stata: pairsimsens and arsimsens**
