@@ -5,6 +5,7 @@ title: publications
 full-width: true
 
 ---
+Note: Where applicable, replication materials are below or at journal's replication archive.
 
 **On Separation of Powers and Obfuscation in U.S. Supreme Court Opinions**
 
