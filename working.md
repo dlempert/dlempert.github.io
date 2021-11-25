@@ -21,6 +21,19 @@ We examine the composition of the set of cases discussed and the U.S. Supreme Co
 Update of version presented at the 2017 MPSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ot39_cert_ol.pdf) (pdf); supplementary info [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ot39_cert_si_ol.pdf) (pdf).
 <br/><br/>
 
+**The Minimal Effect of Opinion Language on Review in a Judicial Hierarchy (with Matt Hitt)**
+
+Does the Supreme Court seek out shoddily-written opinions for correction? Does it see well-written opinions as better vehicles? We construct an original dataset that
+contains information about textual features of a representative sample of published U.S. Courts of Appeals opinions from 1949-2002, as well as all published opinions for which
+cert was sought in OT 1982. We investigate whether textual properties are associated with discretionary review by the U.S. Supreme Court. We advance a multifaceted un-
+derstanding of judicial writing quality, encompassing readability, cognitive complexity, affective language, and new to the judicial politics literature, informality. We find that
+all of these properties fail to exhibit a robust statistically significant association with review. These effects, furthermore, are uniformly negligible in magnitude. We conclude
+that, for the period we study, the Supreme Court does not use its discretionary docket to correct of poorly-written legal doctrine, nor does it seek better-written opinions as
+vehicles.
+
+Update of version presented most recently at 2018 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cert_style_note_ol.pdf) (pdf).
+<br/><br/>
+
 **Innocuous Time-saver or Counter-majoritarian Loophole? The Cert Pool and Policy on the U.S. Supreme Court**
 
 Since 1972, the certiorari petitions that arrive at the Supreme Court are randomly assigned for review to one of the five to eight justices who are members of the Supreme Court cert pool. Justices who are not members of the pool still review each petition. Thus, some petitions for review are evaluated by as few as two justices (or their clerks), and the rest of the Court relies on the recommendations of these justices. This practice has been criticized for its potentially counter-majoritarian implications. Formalizing the communication between the better-informed justices who review a petition and the rest of the Court as a sender-receiver game, I assess the circumstances under which the Court median's preferred policy outcome is subverted. Then, I analyze the decision to opt out of the cert pool. In some equilibria, the cert pool can move policy away from the median justice; in others (specifically, those in which one justice on each side of the median opts out of the cert pool) it is predicted to have no influence. Empirical patterns of cert pool membership in the last eleven natural courts are consistent with equilibrium predictions.
