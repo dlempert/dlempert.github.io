@@ -6,7 +6,9 @@ full-width: true
 
 ---
 
-Some of the below are works in progress; others are finished products that editors/reviewers liked less than I do. 
+<p align="center">
+Some of the below are works in progress; others are essentially finished products that editors/reviewers liked less than I do. 
+</p>
 
 **Effect Sizes for Calculation of Second Differences After Logistic and Probit Regression: Alternative Quantities of Interest**
 
