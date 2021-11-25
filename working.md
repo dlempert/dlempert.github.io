@@ -6,6 +6,7 @@ full-width: true
 
 ---
 
+Some of the below are works in progress; others are finished products that editors/reviewers liked less than I do. 
 
 **Effect Sizes for Calculation of Second Differences After Logistic and Probit Regression: Alternative Quantities of Interest**
 
@@ -31,7 +32,7 @@ all of these properties fail to exhibit a robust statistically significant assoc
 that, for the period we study, the Supreme Court does not use its discretionary docket to correct of poorly-written legal doctrine, nor does it seek better-written opinions as
 vehicles.
 
-Update of version presented most recently at 2018 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cert_style_note_ol.pdf) (pdf).
+Update of version presented most recently at the 2018 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cert_style_note_ol.pdf) (pdf).
 <br/><br/>
 
 **Innocuous Time-saver or Counter-majoritarian Loophole? The Cert Pool and Policy on the U.S. Supreme Court**
