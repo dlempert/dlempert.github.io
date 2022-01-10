@@ -19,7 +19,7 @@ Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.git
 
 Though the literature on agenda-setting at the U.S. Supreme Court is sizable, justice-vote-level multivariate analyses of certiorari are almost exclusively limited to samples of discussed cases from 1986-1993.  Moreover, these studies have done very little to explore justice-level heterogeneity on certiorari.  Here, we present an initial effort to address these lacunae by analyzing the predictors of individual justices' cert votes on all paid dockets from the 1939, 1968, and 1982 terms. We find substantial justice-level heterogeneity in the weight that justices place on the standard factors shaping the cert vote.  We also show that some of this heterogeneity is associated with justice experience and ideological extremism, largely in theoretically predicted ways.  In closing, we sound a note of caution on drawing conclusions about effects of justice attributes, when the number of justices is relatively small.
 
-Accepted, *Political Science Research & Methods*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/jlev_cert_ol.pdf) (pdf). Replication materials at journal's Dataverse.
+Forthcoming, *Political Science Research & Methods*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/jlev_cert_ol.pdf) (pdf). Replication materials at journal's Dataverse.
 <br/><br/>
 
 
@@ -31,14 +31,14 @@ proposed to make the implementation of the announced policy more likely. We give
 more difficult. We propose that justices having aesthetic preferences---essentially, stylistic preferences over opinion language that are unrelated to policy implementation---that
 they weight heavily could explain the observed distribution of opinion clarity. Our analysis of some 4500 majority opinions 1955–2008 is largely consistent with our theoretical argument.
 
-Accepted, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf). Replication materials at journal's Dataverse.
+Forthcoming, *Journal of Law & Courts*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/aesthetic_prefs_ol.pdf) (pdf). Replication materials at journal's Dataverse.
 <br/><br/>
 
 **Mechanisms Underlying Familial Influence on Elite Political Behavior: Evidence from the U.S. Circuit Courts of Appeals (with Alyse Camacho)**
 
 This article contributes to the literature addressing family influences on elite political behavior. By empirically assessing the influence of sibling gender on judicial decision-making, we are able to present evidence on the mechanism by which child, sibling and other relatives’ gender may influence elite political behavior. We build on a dataset in Glynn and Sen (2015, AJPS) by mining various archival sources to compile data on the gender of circuit judges’ siblings. We find no evidence that male judges’ votes on so-called “women’s issues” (employment discrimination based on gender or pregnancy, reproductive rights/abortion, and Title IX) are affected by whether they have a sister, and we are able to rule out large effects of a sibling’s gender on male and female judges’ votes. Our results imply that the relationship between family member gender and elite political behavior is driven by the desire to avoid costs of discrimination, rather than learning from family members.
 
-Forthcoming 2021, *Review of Law & Economics*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/siblings_ol.pdf) (pdf).  Replication data and code for Stata is available [here](https://github.com/dlempert/dlempert.github.io/raw/master/docs/siblings_replication.zip) (zip).
+Forthcoming 2022, *Review of Law & Economics*. A draft is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/siblings_ol.pdf) (pdf).  Replication data and code for Stata is available [here](https://github.com/dlempert/dlempert.github.io/raw/master/docs/siblings_replication.zip) (zip).
 <br/><br/>
 
 **The Prevalence of Articles on U.S. Judicial Behavior in Five Law & Courts Journals**
