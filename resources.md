@@ -15,7 +15,7 @@ title: resources
 
 LSAT Locations 
 
-LSAT Prep.  For one relatively inexpensive book recommended by some of my students, see [Kim, The LSAT Trainer](https://www.amazon.com/LSAT-Trainer-Remarkable-Self-Study-Self-Driven/dp/0989081532/ref=la_B00CQEERIO_1_1?s=books&ie=UTF8&qid=1525126177&sr=1-1). The [Princeton Review's book](https://www.amazon.com/Princeton-Review-LSAT-Premium-Prep/dp/0525569227/ref=sr_1_3?dchild=1&keywords=Princeton+Review+LSAT&qid=1588173364&s=books&sr=1-3) is also a good option. Other students have had positive experiences with Kaplan books.
+LSAT Prep.  One student-recommended inexpensive program geared toward the online LSAT specifically is [7sage](https://7sage.com/).   For one relatively inexpensive book recommended by some of my students, see [Kim, The LSAT Trainer](https://www.amazon.com/LSAT-Trainer-Remarkable-Self-Study-Self-Driven/dp/0989081532/ref=la_B00CQEERIO_1_1?s=books&ie=UTF8&qid=1525126177&sr=1-1). The [Princeton Review's book](https://www.amazon.com/Princeton-Review-LSAT-Premium-Prep/dp/0525569227/ref=sr_1_3?dchild=1&keywords=Princeton+Review+LSAT&qid=1588173364&s=books&sr=1-3) is also a good option. Other students have had positive experiences with Kaplan books.
 
 [List of Law Schools That Accept GRE](https://www.ets.org/gre/revised_general/about/law/)
 
