@@ -10,6 +10,21 @@ full-width: true
 Some of the below are works in progress; others are essentially finished products that I like more than editors/reviewers did. 
 </p>
 
+
+**The Importance of Importance in Certiorari (with Gregory Caldeira)**
+
+We analyze all paid certiorari petitions in the 1939 Term of the U.S. Supreme Court, and demonstrate that a case's importance and novelty--as indicated by measures we introduce here--each affect the probability that a petition is granted, net of covariates that have been previously demonstrated to be influential.  Then, we present two empirical exercises that explore how the Court understands case importance.  Finally, we consider the conceptual relationship between importance and salience, and related measurement challenges.   
+
+Version presented at 2022 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cert_importance_ol.pdf) (pdf).
+<br/><br/>
+
+**Writing Style and Persuasion on the U.S. Circuit Courts of Appeal (with Jeffrey Budziak)**
+
+Judges regularly try to shape legal policy by influencing the behavior of others. The primary way they can do so is through their legal opinions. We investigate whether an opinion's writing style influences a judge's subsequent decision to treat the opinion. We theorize that opinions written in a style conforming to elite norms should be more influential. To test this expectation, we consider the universe of federal appellate court treatments of the 2160 cases in the Update to the Appeals Courts Database, creating a dataset of over 9 million treatable-treating dyads. The results of our analyses suggest judges' ability to influence others through writing style is limited. Only one element of writing style--certainty--is consistently related to treatment decisions, and this effect is limited to in-circuit treatments. In conclusion, we discuss the consequences of these findings for our understanding of the importance of opinion writing style.
+
+Version presented at 2022 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/persuasion_style_ol.pdf) (pdf).
+<br/><br/>
+
 **Effect Sizes for Calculation of Second Differences After Logistic and Probit Regression: Alternative Quantities of Interest**
 
 Social scientists are often interested in how the effect of some covariate on an outcome varies across groups. A common approach is to calculate a second difference, the difference between two group-specific effect sizes. I propose four alternative quantities of interest for calculating second differences after estimation of logistic or probit regression. While the conventional approach is based on setting covariate values that are constant across groups, the alternatives seek to compare effects that are more directly comparable across groups, in two specific senses. The approaches allow different substantive questions to be addressed and reduce dependence on the nonlinear functional form of logit and probit. I compare the proposed alternatives with the conventional approach in an application testing whether effects of election day registration on turnout are conditional on education, showing that the method chosen to calculate second differences can substantially affect the inferences drawn.
