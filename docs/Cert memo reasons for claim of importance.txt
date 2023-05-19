@@ -1,0 +1,171 @@
+Rightmost column is issue code:
+0: No elaboration 
+1: Immediate effects on many people
+2/8: Expected to arise frequently in future 
+3: Important to federal government operation
+4: Lower court overruling administrative agency
+5: Large amount of money immediately at stake 
+6: Other 
+7: Many similar pending cases in lower courts 
+9: Part of important field 
+
+
+  +---------------------------------------------------------------------------------------------------------------------------------------------+
+  |    ncd                              u_p1                             u_p2        u_mf   u_mp   wod_subs   reed_s~s         gcn_area1    ic1 |
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390070                               AFL                             NLRB     39 ARG1    135          0          1             LABOR    581 |0
+  no elaboration. closest: union is thrown out of a very large area.
+  | 390074            POSTAL STEAMSHIP CORP.         SOUTHERN PACIFIC COMPANY     39 ARG1    144          1          0         ADMIRALTY   1032 |2
+  | 390073            POSTAL STEAMSHIP CORP.         SOUTHERN PACIFIC COMPANY     39 ARG1    144          1          0         ADMIRALTY   1032 |2
+  there is a conflict b/w CCA doctrine and adminstrative rules and it is uncertain how to resolve them--these types of conflicts in general will become more and more frequent
+  | 390122         CHICOT CO. DRAINAGE DIST.                BAXTER STATE BANK     39 ARG1    170          1          0        BANKRUPTCY    608 |6
+  refers to question of what effects a law later held unconst'l has on bankruptcy decrees (are they void) and perhaps even more generally the principle of what effect such a law should have  
+  | 390129   GENERAL AMERICAN TANK CAR CORP.           EL DORADO TERMINAL CO.     39 ARG1    172          0          2   FEDERAL BUS REG    671 |0
+  refers to ICC amicus brief indicating case is important (no real elaboration) and that since ICC will participate as amicus granting is "in the public interest"
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390193                              NLRB         WATERMAN STEAMSHIP CORP.     39 ARG1    201          1          1             LABOR    576 |3,4
+  WOD: Since this is one of several flagrant reversals of NLRB by CA5. SFR: CA5 ignores substantial evidence rule which interferes with administration of NLRA.
+  | 390242                              KEYS              PENNSYLVANIA RR CO.     39 ARG2     26          0          2        JONES FELA    623 |2
+  *CODE (sfr) AS 1*: it's recurring that CCAs overrule jury findings of fact on FELA, making act ineffective. 
+  | 390246                          DIETRICK                          GREANEY     39 ARG2     30          0          1   FEDERAL BUS REG    635 |0
+  No elaboration except important question about National Banking Act. Notes too that decision below is "patently horrible"
+  | 390262   SOUTH CHICAGO COAL AND DOCK CO.            BASSETT, COMMISSIONER     39 ARG2     42          0          1        JONES FELA    622 |0
+  no elaboration
+  | 390316                               FLY                        HEITMEYER     39 ARG2     72          1          0   FEDERAL BUS REG    686 |4
+  Not much elaboration, but reference to general question/principle of how much control a CCA has to review the FCC
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390329                           RUSSELL                             TODD     39 ARG2     76          1          0         PROCEDURE    717 |0
+  Nothing beyond "important question of statutory construction" (National Banking Act)
+  | 390342       AMALGAMATED UTILITY WORKERS    CONSOLIDATED EDSION CO. OF NY     39 ARG2     81          1          0             LABOR    582 |3
+  Is "indisputably important" because interpretation below (party cannot move for conempt, only NLRB) "defeats the purpose" of the NLRA
+  | 390354                               FHA                             BURR     39 ARG2     89          1          1       GOVT CLAIMS   1614 |3
+  Can parties sue fed agencies to garnish employee wages? WOD: Many gov agencies w/ employees subject to garnishment. SFR: No elaboration.
+  | 390370             MONTROSE CEMETERY CO.                     COMMISSIONER     39 ARG2     96          1          0       FEDERAL TAX    960 |7
+ Many cases pending in the courts.
+  | 390459                      ROUW COMPANY                         CRIVELLA     39 ARG2    122          1          0        COMMON LAW    617 |6 or 3 
+  Important question of statutory construction that will determine constitutionality of [Perishable Commodities Act]
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390473                        MCGOLDRICK                   GULF OIL CORP.     39 ARG2    136          0          1          RESIDUAL    911 |0
+  No elaboration.
+  | 390474                        MCGOLDRICK                       DERGRENIER     39 ARG2    143          1          0         STATE TAX    976 |0
+  No real elaboration. Notes "identical question to those pending on the docket" but as a separate point really.
+  | 390475                        MCGOLDRICK    BERWIND-WHITE COAL MINING CO.     39 ARG2    147          1          0         STATE TAX    976 |0
+  Refers just to 474 memo.
+  | 390479                         HELVERING                            BRUUN     39 ARG2    149          0          1       FEDERAL TAX    960 |0
+ No elaboration
+  | 390499                               FCC      SANDERS BROS. RADIO STATION     39 ARG2    157          0          1   FEDERAL BUS REG    686 |9
+ Whether FCC must take harm to potential financial competitors into account when granting licenses "or whether the field ought to be kept freely competitive." 
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390514                         THORNHILL                 STATE OF ALABAMA     39 ARG2    159          0          1             LABOR    583 |0
+  "The question of whether peaceful picketing is protected by the 14th Amendment [...] is  undeniably substantial"
+  | 390593            PERKINS, SEC. OF LABOR                 LUKENS STEEL CO.     39 ARG2    200          0          1   FEDERAL BUS REG    625 |3
+  No explicit elaboration--"clearly important enough for a grant."  Implicitly refers to gov't argument that US will be hindered when contracting in the future 
+  | 390597        WESTER UNION TELEGRAPH CO.                           NESTER     39 ARG2    209          0         .5        COMMON LAW   1003 |1
+  "Somewhat important." Yes because 3,000,000 money orders were sent out under old forms (allow $500 for any misdelivery) but No because form has now been modified.
+  | 390681                     RR COMM OF TX          ROWAN & NICHOLS OIL CO.     39 ARG2    237          0          1     STATE BUS REG    631 |4,9
+  "Important regulation of an important industry" (TX oil comm).  Court upset all Comm's findings of fact.  
+  | 390705                                US                        DICKERSON     39 ARG2    242          0          1       GOVT CLAIMS   1616 |1,3
+  Refers to gov't argument that suspension of enlistment bonuses affects some 100K soldiers and reasoning of Ct below may affect other similar claims (salaries, bonuses, pensions)--see petition for details.
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390715                                US                        SUMMERLIN     39 ARG2    249          0          1       GOVT CLAIMS   1617 |1,3
+  Does state SoL apply against US in probate court? "46 states have similar statutes and the government [=US] is constantly filing claims in probate."
+  | 390796                               SEC      US REALTY & IMPROVEMENT CO.     39 ARG2    266          1          1   FEDERAL BUS REG    636 |0
+  Which Chapter of Bankruptcy Act do certain corps have to file under. SFR: "Public importance" No elaboration. WOD: No elaboration.
+  | 390041                            ALLIED                               US     39 ARG2    285          0         .5       FEDERAL TAX    960 |0
+  No elaboration. Closer to 0 than 1. 
+ | 390079                             STILL      UNION CIRCULATION CO., INC.    39 DEN 1     64          1          0        COMMON LAW    617 |2
+  The question of whether a federal court in state X must follow state Y's substantive law if an accident occurred in Y and state X's law of conflict says Y's substantive law should be followed, or whether it can follow X's substantive law [...] "with the Tompkins case on the books [...] will become increasingly important" 
+ | 390098        CORN PRODUCTS REFINING CO.                       LOFT, INC.    39 DEN 1     88          0          1          RESIDUAL    602 |0
+ No elaboration, but both the case in the narrow sense (complex sugar antitrust litigation) and the broader issue of how a smaller party can gain info about potentially illegal conglomerates is deemed important.
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390331            NEW YORK LIFE INS. CO.                          OSTROFF    39 DEN 3    111          1          0        COMMON LAW   1013 |0
+No elaboration. "Important question of the law to be applied in fed courts." The issue here is which state's law applies post-Erie for (insurance) contracts where the insured resides in state X but the company / officers / payments are in state Y. 
+  | 390332                          WATERMAN           NEW YORK LIFE INS. CO.    39 DEN 3    113          0          1        COMMON LAW   1013 |1,2,6
+The question, narrowly stated is whether the cash surrender or face value of an insurance policy is what counts for the jurisdictional amount. If the former, no fed jurisdiction.  Clerk writes that question is "very important" "theoretically" because ("as Holmes lamented (?))" retaining jurisdiction if amount is not met is a invasion of states' reserved rights and it is important "practically" because the problem is "more or less recurring" and overruling the CCA would be more in line with Erie.  Interestingly WOD's clerk misses the jurisdictional problem altogether.
+  | 390344                            MARTIN           NEW YORK LIFE INS. CO.    39 DEN 3    120          1          0        COMMON LAW   1013 |0
+Question is w/er bankruptcy ct has power to reach bankrupt's insurance policies. Power of trustee is deemed important--no elaboration (but D rec since CCA correct.)
+  | 390345                            MARITN                        EQUITABLE    39 DEN 3    120          1          0        COMMON LAW   1013 |0
+Same as 344
+  | 390375                         STACKPOLE                         HOUGHTON    39 DEN 3    139          1          0               PCT    662 |0
+No elaboration. Probably closer to .5 than 1.  
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390377                                US            AMERICAN MEDICAL ASSN    39 DEN 3    143          1          0          RESIDUAL    601 |0
+No elaboration. But the question of w/er Sherman Act applies to practice of medicine is repeatedly described as important, apparently as self-evident.
+  | 390402                        HAVERSTICK               DRAINAGE DIST NO 7    39 DEN 3    166          0          1        BANKRUPTCY    608 |0
+No elaboration except to state that the question: whether the decision by the cts below to deny priority "contravenes the [Municipal Bankruptcy] Act"  
+  | 390547                      STEINBRECHER                            TOMAN    39 DEN 4     17          1          0        BANKRUPTCY    609 |0
+No elaboration except to state the question: whether bankruptcy ct can redetermine tax claims in reorganization or w/er the taxing state has the sole power to do so.  
+  | 390580     MUNICIPAL COUNCIL, SAN RAFAEL             HOSPITAL DE SAN JUAN    39 DEN 4     40          1          .        COMMON LAW   1001 |5
+  "Since land involved is worth $1.5M and [reversal] would probably set precedent for confiscating most of the land of the Catholic Church [in the Phillippines]"
+  *interesting example of importance but rec deny since correct below.
+  | 390604                STANDARD OIL OF CA                               US    39 DEN 4     57          0          1          RESIDUAL    639 |0
+No elaboration. The question: Is administrative decision that certain land is mineral (and therefore US has title) subject to de novo review in courts?  
+ |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390612                             LEWIS               VENDOME BAGS, INC.    39 DEN 4     63          0          1               PCT    661 |0
+No elaboration. Question seems to be w/er fed cts have jurisdiction when no diversity and unfair competition but no patent infrigement.
+  | 390614              PUBLIC SERVICE COMM.            WISCONSIN TELEPH. CO.    39 DEN 4     64          1          1     STATE BUS REG    631 |1
+WISC holds utility rates confiscatory, but not clear if on US or state const'l grounds. The question that is general seems to be how to deal w/ cases where state const'l provision is interpreted by reference to rules SCOTUS has laid out for analogous US Const provisions. SFR: no explicit elaboration; implicitly that other utilities are impacted. WOD: No elaboration (refer to US as amicus stating case important)
+  | 390640                          MCGREGOR     BD OF PUBLIC UTILITY COMMRS.    39 DEN 4     86          0          1     STATE BUS REG    631 |9
+"...it is important to loosen up this field."  "This field" has to do with setting rates for utilities (when they are confiscatory etc), but if there is a narrower problem it is difficult to decipher.  Nor is it clear what loosen up really means in this context--allow more flexibility for utilities? 
+  | 390696                            CLARKE                  GOLD DUST CORP.    39 DEN 4    129          0          1        COMMON LAW   1010 |9
+"this is quite an important field." The field here has to do with mergers and the rights of dissenting stockholders thereafter, under state law. Hard to understand beyond that.  
+  | 390751                                US                             POWE    39 DEN 4    175          0          1          CRIMINAL    177 |1 OR 2/8
+ Gov't bringing civil rts charges against those who blackmailed editor to stop his coverage.  "I take judicial notice of newspaper accounts of requests that DoJ act in similar cases."
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390755                            LANDAY                               US    39 DEN 4    177          0          1          CRIMINAL    159 |0
+ No elaboration. The question is whether self-incrim applies to corp books helds by a corp officer.
+  | 390786               CLAWSON & BALS INC.              HARRISON, COLLECTOR    39 DEN 4    200          1          1       FEDERAL TAX    972 |3,7
+Is reconditioning etc "manufacturing?"  SFR: "there are many cases involving similar questions and that the matter is important." WOD: "Great importance to the government in taxation, since many DC cases have results contrary to the court below." (Here, gov't won.)
+  | 390878         METROPOLITAN LIFE INS CO.                               US    39 DEN 5     24          0          1       FEDERAL TAX    975 |1,3
+Question is whether a state law that allows for sale of a mortgaged property by the bank w/o court order can serve to cancel a tax lien the US has on the property due to indebtedness of the borrower.  SFR clerk says important b/c 17 states have similar laws. WOD clerk interestingly says "of limited importance."    
+  | 390959             AMERICAN MEDICAL ASSN                               US    39 DEN 5     86          0          1          RESIDUAL    601 |0
+  No elaboration.
+  | 390969                   GAY UNION CORP.                          WALLACE    39 DEN 5     93          0          2         PROCEDURE    721 |6
+  Probably closer to 0 than 1. The Sugar Act is "confessedly important" but (at least implicitly) questions about it arising here are not (or less so).
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390036                             TOSTE                           MCLEOD     39 DEN1     14          0         .5       DUE PROCESS    507 |1
+ Whether (PR) pensions give pensioners a vested right to a certain amount. "Perhaps may be" important because "many persons with pensions were affected." 
+  | 390071                  ROBY-SOMERS COAL                         ROUTZAHN     39 DEN1     56          0          1       FEDERAL TAX    960 |6
+ Can a certain determination by CIR be reviewed under 1917 Revenue Act?  "There seems to me inherent importance in a case denying a litigant any opportunity for review." But also notes it is doubtful that many cases will be affected given the Act has been modified since.    
+  | 390218                          THOMPSON              TERMINAL SHARES CO.     39 DEN1    178          1          .        BANKRUPTCY    609 |0
+  | 390180                          THOMPSON                           MURPHY     39 DEN1    178          1          .        BANKRUPTCY    609 |0
+  | 390219                          THOMPSON              TERMINAL SHARES CO.     39 DEN1    178          1          .        BANKRUPTCY    609 |0
+ Has to do with where defendants must be served under Bankruptcy Act. "Sufficiently important to be reviewed here." No elaboration.
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390690                     MINERSVILE SD                          GOBITIS     39 DEN4    122          1          0          RESIDUAL    455 |0
+  No elaboration.
+  | 390151                            DEPUTY                           DUPONT    39 WODOp     10          1          0       FEDERAL TAX    960 |3
+ Is conserving one's estate a "business" and therefore are ordinary business expense deductions applicable? No elaboration beyond "a tax question of some importance to the government." 
+ | 390613                                US                  BUSH & CO. INC.    39 WODOp     71          1          1       FEDERAL TAX    979 |4
+ CCPA overrules Tarrif Comms' duties calculation. Important because CCPA "upset the administrative discretion and required a strict interpretation of the statute [...]."  In other words, "to see if such interference with the administrative department by the courts was justified."   
+  | 390992                               RFC   PRUDENCE SECURITIES ADVR'Y GRP    39 WODOp    132          1          .        BANKRUPTCY    609 |0
+  Question is whether certain appeals regarding compensation in bankruptcy proceedings are discretionary (ie can be allowed by the CCA even if late or improper in form). "Of considerable importance." No elaboration.  Interesting that appears to say unlikely to affect future appellants, since will know to file correctly if decision below stands.
+  | 390674                                US     APPALACHIAN ELECTRIC PWR CO.     40 ARG1     36          1          .   FEDERAL BUS REG    681 |3
+  Is a certain river "navigable" allowing US to build dam. "Even though it is primarily a factual issue it is very important since it involves the power of the govt to control and regulate a large and important dam."  "The question is an important one of policy." "...Where facts are a mere disguise for the real policy which dictates the decision as in this case..." "...navigability is merely the term used to describe a holding in favor of federal power..." 
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390770          MILK WAGON DRIVERS UNION       LAKE VALLEY FARM PROD. CO.     40 ARG1     46          1          .             LABOR    583 |0
+  Can certain union picketing be enjoined as violating Clayton Act? Review warranted since "issues are so important." No explicit elaboration. 
+  | 390815          FIDELITY UNION TRUST CO.                            FIELD     40 ARG1     68          1          .        COMMON LAW   1007 |6 or 0
+ Does CCA have to follow state lower ct interpretation of common law when state sup ct has not spoken? "Rather important question under the doctrine of the Tompkins case."
+  | 390826                  KANSAS CITY, MO.                 L. SINGER & SONS     40 ARG1     76          1          .   FEDERAL BUS REG    671 |0
+  | 390825                  L. SINGER & SONS                    UNION PACIFIC     40 ARG1     76          1          .   FEDERAL BUS REG    671 |0
+ Is a business (825) or city (826) that stands to suffer some indirect injury from a RR being extended a "party in interest" who can intervene in a hearing so it can object to the failure of a RR (resp) to get a certificate from the ICC authorizing it to extend its lines? "The question is fairly important."  
+  | 390843                         HELVERING                           JANNEY     40 ARG1     78          1          .       FEDERAL TAX    960 |3
+  Can one spouse's captial gain be offset against the other's capital loss when they file a joint return? Important because "the op below has overruled applicable Treasury Regs."
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390864                               FCC       COLUMBIA BROADCASTING SYS.     40 ARG1     84          1          .   FEDERAL BUS REG    686 |0
+  | 390865                               FCC     ASSOCIATED BROADCASTERS INC.     40 ARG1     84          1          .   FEDERAL BUS REG    686 |0
+  Is a FCC ruling denying a radio license transfer appealable to CCA or must it go through 3-judge DC? No real elaboration beyond stating question.
+  | 390946                         HELVERING                          THOMSON     40 ARG1    121          1          .       FEDERAL TAX    960 |3
+  Is a certain transaction a "retirement" of bonds under the revenue laws, and therefore a capitol loss or not and therefore a bad debt. (Max deduction amounts allowed differ in each case.) It is "important to the revenue laws since it is a direct statutory interpretation."
+  | 390996                       HEINZ & CO.                             NLRB     40 ARG1    138          1          .             LABOR    575 |0
+  What actions by supervisors constitute employer domination?  No elaboration.
+  | 390353                MILK WAGON DRIVERS          MEADOWMOOR DAIRIES INC.   REED MISC      0          .          1             LABOR    583 |0
+  Can peaceful picketing be enjoined given 1A when it is associated with violence? No elaboration, except it is clear that the broader question is what's important, not the particular parties involved  
+  |---------------------------------------------------------------------------------------------------------------------------------------------|
+  | 390734                           DECKERT    PENNSYLVANIA CO. FOR INS ETC.   REED MISC      0          .          1   FEDERAL BUS REG    636 |0
+  | 390733                           DECKERT        INDEPENDENCE SHARES CORP.   REED MISC      0          .          1   FEDERAL BUS REG    636 |0
+  No elaboration. Not clear that this should be a 1 and not a 0.  Probably more like a 0.25...
+  +---------------------------------------------------------------------------------------------------------------------------------------------+
+39-387 Vidal v Garcia Code: 1
+WOD: "There is no dispute the industry is important." "An important question of price fixing."								
