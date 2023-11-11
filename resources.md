@@ -15,7 +15,7 @@ title: resources
 
 LSAT Locations 
 
-LSAT Prep.  One student-recommended, inexpensive program geared specifically toward the online LSAT is [7sage](https://7sage.com/). Also recommended is [Khan Academy's LSAT Prep Program](https://www.khanacademy.org/prep/lsat) and the [Powerscore 3-Book Set](https://www.powerscore.com/lsat/publications).  For another relatively inexpensive book recommended by some of my students, see [Kim, The LSAT Trainer](https://www.amazon.com/LSAT-Trainer-Remarkable-Self-Study-Self-Driven/dp/0989081532/ref=la_B00CQEERIO_1_1?s=books&ie=UTF8&qid=1525126177&sr=1-1). The Princeton Review and Kaplan books are also good options.  NOTE: Logic games will be removed from the LSAT starting Summer 2024.
+LSAT Prep.  One student-recommended, inexpensive program geared specifically toward the online LSAT is [7sage](https://7sage.com/). Also recommended is [Khan Academy's LSAT Prep Program](https://www.khanacademy.org/prep/lsat) and the [Powerscore 3-Book Set](https://www.powerscore.com/lsat/publications).  For another relatively inexpensive book recommended by some of my students, see [Kim, The LSAT Trainer](https://www.amazon.com/LSAT-Trainer-Remarkable-Self-Study-Self-Driven/dp/0989081532/ref=la_B00CQEERIO_1_1?s=books&ie=UTF8&qid=1525126177&sr=1-1). The Princeton Review and Kaplan books are also good options.  <b>NOTE</b>: Logic games will be removed from the LSAT starting Summer 2024.
 
 [List of Law Schools That Accept GRE](https://www.ets.org/gre/test-takers/admissions-resources/law-school/program-list.html)
 
