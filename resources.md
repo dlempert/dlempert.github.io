@@ -4,8 +4,11 @@ layout: page
 title: resources
 
 ---
-
+<p align="center">
 <b>Last updated: Summer 2024</b>
+
+</p>
+<br/><br/>
 
 [Checklist for Law School Admission](http://www.lsac.org/jd/applying-to-law-school/lsat-cas-checklist)
 
