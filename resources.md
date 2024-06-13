@@ -5,6 +5,8 @@ title: resources
 
 ---
 
+<b>Last updated: Summer 2024</b>
+
 [Checklist for Law School Admission](http://www.lsac.org/jd/applying-to-law-school/lsat-cas-checklist)
 
 [Law School Employment Statistics](http://abarequireddisclosures.org/MainHome.aspx)
