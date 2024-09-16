@@ -40,17 +40,6 @@ We examine the composition of the set of cases discussed and the U.S. Supreme Co
 Update of version presented at the 2017 MPSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ot39_cert_ol.pdf) (pdf); supplementary info [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/ot39_cert_si_ol.pdf) (pdf).
 <br/><br/>
 
-**The Minimal Effect of Opinion Language on Review in a Judicial Hierarchy (with Matt Hitt)**
-
-Does the Supreme Court seek out shoddily-written opinions for correction? Does it see well-written opinions as better vehicles? We construct an original dataset that
-contains information about textual features of a representative sample of published U.S. Courts of Appeals opinions from 1949-2002, as well as all published opinions for which
-cert was sought in OT 1982. We investigate whether textual properties are associated with discretionary review by the U.S. Supreme Court. We advance a multifaceted understanding of judicial writing quality, encompassing readability, cognitive complexity, affective language, and new to the judicial politics literature, informality. We find that
-all of these properties fail to exhibit a robust statistically significant association with review. These effects, furthermore, are uniformly negligible in magnitude. We conclude
-that, for the period we study, the Supreme Court does not use its discretionary docket to correct poorly-written legal doctrine, nor does it seek better-written opinions as
-vehicles.
-
-Update of version presented most recently at the 2018 APSA Conference is available [here](https://raw.githubusercontent.com/dlempert/dlempert.github.io/master/docs/cert_style_note_ol.pdf) (pdf).
-<br/><br/>
 
 **Innocuous Time-saver or Counter-majoritarian Loophole? The Cert Pool and Policy on the U.S. Supreme Court**
 
