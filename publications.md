@@ -7,12 +7,12 @@ full-width: true
 ---
 
 
-**Lower Court Opinion Writing Style and Certiorari at the U.S. Supreme Court**
+**Lower Court Opinion Writing Style and Certiorari at the U.S. Supreme Court (with Matt Hitt)**  
 
 Does the Supreme Court seek out shoddily-written opinions for correction? Does it see well-written opinions as better vehicles? We construct an original dataset that
 contains information about textual features of a representative sample of published U.S. Courts of Appeals opinions from 1949-2002, as well as all published opinions for which cert was sought in OT 1982. We investigate whether textual properties are associated with discretionary review by the U.S. Supreme Court. We advance a multifaceted understanding of judicial writing quality, encompassing readability, cognitive complexity, affective language, and new to the judicial politics literature, informality. We find that all of these properties fail to exhibit a robust statistically significant association with review. These effects, furthermore, are uniformly negligible in magnitude. We conclude that, for the period we study, the Supreme Court does not use its discretionary docket to correct poorly-written legal doctrine, nor does it seek better-written opinions as vehicles.
 
-2024\. *Open Judicial Politics*, 3rd Edition, Volume 2. Available [here](https://open.oregonstate.education/ojp3e-vol2/chapter/opinion-writing-style/) (external link). Replication data at same link.
+2024\. *Open Judicial Politics*, 3rd Edition, Volume 2. Available [here](https://open.oregonstate.education/ojp3e-vol2/chapter/opinion-writing-style/) (external link). Replication data at same link (see "Learning Activity" section).
 <br/><br/>
 
 
