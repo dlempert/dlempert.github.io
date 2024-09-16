@@ -6,6 +6,16 @@ full-width: true
 
 ---
 
+
+**Lower Court Opinion Writing Style and Certiorari at the U.S. Supreme Court**
+
+Does the Supreme Court seek out shoddily-written opinions for correction? Does it see well-written opinions as better vehicles? We construct an original dataset that
+contains information about textual features of a representative sample of published U.S. Courts of Appeals opinions from 1949-2002, as well as all published opinions for which cert was sought in OT 1982. We investigate whether textual properties are associated with discretionary review by the U.S. Supreme Court. We advance a multifaceted understanding of judicial writing quality, encompassing readability, cognitive complexity, affective language, and new to the judicial politics literature, informality. We find that all of these properties fail to exhibit a robust statistically significant association with review. These effects, furthermore, are uniformly negligible in magnitude. We conclude that, for the period we study, the Supreme Court does not use its discretionary docket to correct poorly-written legal doctrine, nor does it seek better-written opinions as vehicles.
+
+2024\. in *Open Judicial Politics*, 3rd Edition, Volume 2. Available [here](https://open.oregonstate.education/ojp3e-vol2/chapter/opinion-writing-style/) (external link). Replication data at same link.
+<br/><br/>
+
+
 **On Separation of Powers and Obfuscation in U.S. Supreme Court Opinions**
 
 A longstanding debate in American judicial politics concerns whether the U.S. Supreme Court anticipates or responds to the possibility that Congress will override its decisions.  A recent theory proposes that opinions that are relatively hard to read are more costly for Congress to review---and that as a result, the Court can decrease the likelihood of override from a hostile Congress by _obfuscating_ its opinions: writing opinions that are less readable when congressional review is a threat.  I derive a straightforward but novel empirical implication of this theory; I then show that the implication does not in fact hold. This casts serious doubt on the claim that justices strategically obfuscate opinion language to avoid congressional override.  I also discuss sentence tokenization as a source of measurement error in readability statistics for judicial opinions.
